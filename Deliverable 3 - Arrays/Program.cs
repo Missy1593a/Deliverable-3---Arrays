@@ -4,6 +4,7 @@
     Comments: This C# Console application code demonstrates the use of
               Arrays
 */
+
 using System;
 using System.Linq;
 namespace Deliverable_3___Arrays
